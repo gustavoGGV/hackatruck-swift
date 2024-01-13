@@ -22,6 +22,8 @@ case 100:
     
 case 200:
     print("O usuário solicitou uma nota de 200 reais.")
+
+// Default é obrigatório!!!
     
 default:
     print("A nota solicita não existe.")
